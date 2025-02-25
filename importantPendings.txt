@@ -1,9 +1,0 @@
-
-http://atom-rds-backup.cwehqbvyrp9o.us-west-2.rds.amazonaws.com/  
-rohan ^^^
-
-MonarchA123@a
-
-http://atom-rds.endpoint.proxy-cwehqbvyrp9o.us-west-2.rds.amazonaws.com/
-
-prathiba ^^^ 
